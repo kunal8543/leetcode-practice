@@ -1,2 +1,2 @@
 # leetcode-practice
-![Leetcode Stats](https://leetcard.jacoblin.cool/kunaljha8543?ext=heatmap)
+![](https://leetcard.jacoblin.cool/kunaljha8543?ext=activity)
